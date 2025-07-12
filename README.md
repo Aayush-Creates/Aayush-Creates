@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aayush-Creates
 - 👀 I’m interested in AI,ML,Web Development and Competitive Programming.
 - 🌱 I’m currently learning DSA and Web Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/aayush-gupta55
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Boring for some, intresting for others.
